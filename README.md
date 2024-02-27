@@ -11,4 +11,9 @@ if you enter it your pc will "DIE" becaus it's delete all your system files"from
 try it in "RDP"
 
 
+You can change some things on the source code because it is made with batch only easy language
+
+"IT'S OPEN SOURCE"
+
+
 "I do not take responsibility for your actions"
